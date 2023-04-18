@@ -1,2 +1,1 @@
-# PrepCourse-Henry-toma-dos-
-Esta es una toma dos de prueba para ver si se puede resolver el problema al hacer el commit.
+Probando si este intento de crear un commit es el bueno.
